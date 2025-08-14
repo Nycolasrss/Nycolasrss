@@ -1,6 +1,6 @@
 
 
-# 🤖 Olá, eu sou Nycolas
+# 🤖
 Sou estudante de programação com um foco direcionado ao Frontend no momento. Trabalho atualmente como Analista de Suporte na empresa Engeplus. Faço meus trabalhos paralelos como desenvolvedor, visando sempre novos conhecimentos e aprimorar as minhas tecnicas. Atualmente estou trabalhando mais com JS juntamente com Tailwindcss. Estou começando a integrar frameworks atualmente também, como React.
 ## 💼 Perfil Profissional
 
