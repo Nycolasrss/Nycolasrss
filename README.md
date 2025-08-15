@@ -19,6 +19,6 @@ Sou estudante de programação com um foco direcionado ao Frontend no momento. T
 
 
 
- ![Nycolasrss stats](https://github-readme-stats.vercel.app/api?username=Nycolasrss\&rank_icon=github) 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nycolasrss&layout=compact)
 #
