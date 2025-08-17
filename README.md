@@ -1,8 +1,8 @@
 
 
-# 🤖
-### Sou estudante de programação, mas estou estudando java no curso. Trabalho atualmente como Analista de Suporte N1 na empresa Engeplus. Faço meus trabalhos paralelos como desenvolvedor, visando sempre novos conhecimentos e aprimorar as minhas tecnicas. Atualmente estou trabalhando com uma API para gerenciar pedidos de loja, utilizando do javinha com SpringBoot, PostgreSQL, JS juntamente com Tailwindcss.
-# 💼 Perfil Profissional
+
+# 💼 🤖 Perfil Profissional
+##
 
 ## - 🎧 Analista de Suporte N1
 ## - 💻 Estudante de Programação
