@@ -7,7 +7,7 @@
 ## - 🎧 Analista de Suporte N1
 ## - 💻 Estudante de Programação
 ## - 🎓 Cursando Analise e Desenvolvimento de Sistemas na UNESC
-## - 🌱 Desenvolvedor FrontEnd
+## - 🌱 Desenvolvedor Web
 <br>
 
 # 🛠️ 🚀  Ferramentas e Tecnologias
